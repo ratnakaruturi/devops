@@ -1,3 +1,4 @@
 #!/bin/bash
 echo " this is my junkins tree file "
+nw line from git
 new line from git hub
